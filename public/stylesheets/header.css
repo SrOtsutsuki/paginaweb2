@@ -1,0 +1,33 @@
+#header{
+    background-color: rgba(255, 255, 255, 0);
+}
+.navbar{
+    position: fixed !important;
+    z-index: 10 !important;
+    font-size: 20px;
+    width: 100% !important;
+}
+
+
+.scroll.active{
+    color: orangered ;
+    font-weight: bold;
+}
+
+
+.scroll:hover{
+    color: orangered ;
+}
+.scroll{
+    color: white;
+    font-size: 20px;
+    text-decoration: none !important;
+    margin: 5px;
+    margin-right: 30px;
+}
+
+.icono {
+    color: orangered !important;
+    font-size: 35px;
+}
+
